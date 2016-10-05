@@ -1,8 +1,6 @@
 # 알고리즘 스터디
 :point_right: [토요일엔 무한도전. 일요일엔 짜파게티. 평일엔 알고리즘!](https://www.acmicpc.net/group/1094)
 
----
-
 **GDG Korea Campus** 에서 진행하는 알고리즘 스터디입니다. 알고리즘을 더 잘하고 싶은분들께 언제나 열려있습니다. 어려워 마시고 slack **#algo** 채널의 문을 두드려주세요.
 
 ### 목표
@@ -20,10 +18,10 @@
 
 
 ### 건의 및 질문
-건의 및 질문이 있으시면 [issue](https://github.com/GDGKoreaCampus/frontend-playground/issues)에 등록해주시면 감사하겠습니다.
+건의 및 질문이 있으시면 [issue](https://github.com/GDGKoreaCampus/study_algo/issues)에 등록해주시면 감사하겠습니다.
 
 
 ---
 
-수고해주시는 분들 (슬랙아이디)  
+**수고해주시는 분들** (슬랙아이디)  
 @gnujoow, @jeremy, @doil.yoon
