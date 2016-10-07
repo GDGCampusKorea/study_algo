@@ -24,4 +24,5 @@
 ---
 
 **수고해주시는 분들** (슬랙아이디)  
-@gnujoow, @jeremy, @doil.yoon, @mingrammer
+@gnujoow, @jeremy, @doil.yoon, @mingrammer, @yongjang
+
